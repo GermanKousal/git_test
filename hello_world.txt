@@ -1,1 +1,2 @@
 Hello, just testing git.
+Added some text
